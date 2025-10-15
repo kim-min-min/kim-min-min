@@ -10,7 +10,6 @@ AI는 아직 어려운 분야지만,
 
 <br />
 <br />
-<br />
 
 ## How i work
 저는 새로운 문제를 보면 먼저 “이건 왜 이렇게 될까?” 를 고민합니다.  
@@ -22,7 +21,7 @@ AI는 아직 어려운 분야지만,
 
 <br />
 <br />
-<br />
+
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
