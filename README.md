@@ -24,7 +24,6 @@ AI는 아직 어려운 분야지만,
 
 ## Skills
 #### I use it often.
-#### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
